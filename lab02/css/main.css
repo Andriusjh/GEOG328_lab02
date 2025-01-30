@@ -73,3 +73,8 @@
     text-align: left;
   }
 }
+
+.danger {
+  background-color: #50C878;
+  border-left: 6px solid #4F7942;
+}
